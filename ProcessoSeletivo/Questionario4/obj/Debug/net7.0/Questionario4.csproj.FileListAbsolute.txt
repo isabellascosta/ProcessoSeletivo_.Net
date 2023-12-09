@@ -1,0 +1,15 @@
+C:\Users\Isabella\source\Repos\ProcessoSeletivo\ProcessoSeletivo\Questionario4\obj\Debug\net7.0\Questionario4.csproj.AssemblyReference.cache
+C:\Users\Isabella\source\Repos\ProcessoSeletivo\ProcessoSeletivo\Questionario4\obj\Debug\net7.0\Questionario4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Isabella\source\Repos\ProcessoSeletivo\ProcessoSeletivo\Questionario4\obj\Debug\net7.0\Questionario4.AssemblyInfoInputs.cache
+C:\Users\Isabella\source\Repos\ProcessoSeletivo\ProcessoSeletivo\Questionario4\obj\Debug\net7.0\Questionario4.AssemblyInfo.cs
+C:\Users\Isabella\source\Repos\ProcessoSeletivo\ProcessoSeletivo\Questionario4\obj\Debug\net7.0\Questionario4.csproj.CoreCompileInputs.cache
+C:\Users\Isabella\source\Repos\ProcessoSeletivo\ProcessoSeletivo\Questionario4\bin\Debug\net7.0\Questionario4.exe
+C:\Users\Isabella\source\Repos\ProcessoSeletivo\ProcessoSeletivo\Questionario4\bin\Debug\net7.0\Questionario4.deps.json
+C:\Users\Isabella\source\Repos\ProcessoSeletivo\ProcessoSeletivo\Questionario4\bin\Debug\net7.0\Questionario4.runtimeconfig.json
+C:\Users\Isabella\source\Repos\ProcessoSeletivo\ProcessoSeletivo\Questionario4\bin\Debug\net7.0\Questionario4.dll
+C:\Users\Isabella\source\Repos\ProcessoSeletivo\ProcessoSeletivo\Questionario4\bin\Debug\net7.0\Questionario4.pdb
+C:\Users\Isabella\source\Repos\ProcessoSeletivo\ProcessoSeletivo\Questionario4\obj\Debug\net7.0\Questionario4.dll
+C:\Users\Isabella\source\Repos\ProcessoSeletivo\ProcessoSeletivo\Questionario4\obj\Debug\net7.0\refint\Questionario4.dll
+C:\Users\Isabella\source\Repos\ProcessoSeletivo\ProcessoSeletivo\Questionario4\obj\Debug\net7.0\Questionario4.pdb
+C:\Users\Isabella\source\Repos\ProcessoSeletivo\ProcessoSeletivo\Questionario4\obj\Debug\net7.0\Questionario4.genruntimeconfig.cache
+C:\Users\Isabella\source\Repos\ProcessoSeletivo\ProcessoSeletivo\Questionario4\obj\Debug\net7.0\ref\Questionario4.dll

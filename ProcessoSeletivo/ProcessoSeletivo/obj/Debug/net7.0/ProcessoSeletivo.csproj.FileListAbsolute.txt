@@ -1,0 +1,15 @@
+C:\Users\Isabella\source\Repos\ProcessoSeletivo\ProcessoSeletivo\ProcessoSeletivo\bin\Debug\net7.0\ProcessoSeletivo.exe
+C:\Users\Isabella\source\Repos\ProcessoSeletivo\ProcessoSeletivo\ProcessoSeletivo\bin\Debug\net7.0\ProcessoSeletivo.deps.json
+C:\Users\Isabella\source\Repos\ProcessoSeletivo\ProcessoSeletivo\ProcessoSeletivo\bin\Debug\net7.0\ProcessoSeletivo.runtimeconfig.json
+C:\Users\Isabella\source\Repos\ProcessoSeletivo\ProcessoSeletivo\ProcessoSeletivo\bin\Debug\net7.0\ProcessoSeletivo.dll
+C:\Users\Isabella\source\Repos\ProcessoSeletivo\ProcessoSeletivo\ProcessoSeletivo\bin\Debug\net7.0\ProcessoSeletivo.pdb
+C:\Users\Isabella\source\Repos\ProcessoSeletivo\ProcessoSeletivo\ProcessoSeletivo\obj\Debug\net7.0\ProcessoSeletivo.csproj.AssemblyReference.cache
+C:\Users\Isabella\source\Repos\ProcessoSeletivo\ProcessoSeletivo\ProcessoSeletivo\obj\Debug\net7.0\ProcessoSeletivo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Isabella\source\Repos\ProcessoSeletivo\ProcessoSeletivo\ProcessoSeletivo\obj\Debug\net7.0\ProcessoSeletivo.AssemblyInfoInputs.cache
+C:\Users\Isabella\source\Repos\ProcessoSeletivo\ProcessoSeletivo\ProcessoSeletivo\obj\Debug\net7.0\ProcessoSeletivo.AssemblyInfo.cs
+C:\Users\Isabella\source\Repos\ProcessoSeletivo\ProcessoSeletivo\ProcessoSeletivo\obj\Debug\net7.0\ProcessoSeletivo.csproj.CoreCompileInputs.cache
+C:\Users\Isabella\source\Repos\ProcessoSeletivo\ProcessoSeletivo\ProcessoSeletivo\obj\Debug\net7.0\ProcessoSeletivo.dll
+C:\Users\Isabella\source\Repos\ProcessoSeletivo\ProcessoSeletivo\ProcessoSeletivo\obj\Debug\net7.0\refint\ProcessoSeletivo.dll
+C:\Users\Isabella\source\Repos\ProcessoSeletivo\ProcessoSeletivo\ProcessoSeletivo\obj\Debug\net7.0\ProcessoSeletivo.pdb
+C:\Users\Isabella\source\Repos\ProcessoSeletivo\ProcessoSeletivo\ProcessoSeletivo\obj\Debug\net7.0\ProcessoSeletivo.genruntimeconfig.cache
+C:\Users\Isabella\source\Repos\ProcessoSeletivo\ProcessoSeletivo\ProcessoSeletivo\obj\Debug\net7.0\ref\ProcessoSeletivo.dll
